@@ -1,0 +1,18 @@
+{
+  "name": "crow-example",
+  "version": "0.1.0",
+  "dependencies": {
+    "utils-lib": "https://raw.githubusercontent.com/lodash/lodash/4.17.21/package.json"
+  },
+  "tasks": {
+    "hello": "echo 'Hello from Crow! System is optimized and transparent.'"
+  }
+}
+L/DD77
+{
+  "utils-lib": {
+    "hash": "0d486d8dd5d67f09a44aa72a6acecba39a5a66c07ec4f988e9c2ee3075563a5e",
+    "updated_at": "2024-05-10T22:00:00Z",
+    "size": 0
+  }
+}
